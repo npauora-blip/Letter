@@ -1,0 +1,22 @@
+# Standard Node.js and Next.js .gitignore
+
+# Dependency directories
+node_modules/
+.next/
+
+# Testing
+/coverage/
+
+# Build output
+out/
+build/
+
+# Local environment configuration
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Others
+.DS_Store
+Thumbs.db
